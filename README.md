@@ -1,4 +1,4 @@
-# 反PUA斗士
+# NoPUA-skill
 
 > 当你看清问题的时候问题就已解决了大半，对PUA勇敢say nooooo！
 > Identifying the problem is half the solution. Have the courage to say nooooo to PUA!
