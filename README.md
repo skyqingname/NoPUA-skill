@@ -1,4 +1,4 @@
-# 职场反PUA认知武装 / Workplace Anti-PUA Skill
+# 反PUA斗士
 
 > 一副眼镜，不是一把刀。帮你看清操控话术的结构，而不是教你打回去。
 > A pair of glasses, not a knife. Helps you see manipulation clearly, not fight back blindly.
