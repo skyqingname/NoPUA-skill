@@ -1,7 +1,7 @@
 # 反PUA斗士
 
 > 当你看清问题的时候问题就已解决了大半，对PUA勇敢say nooooo！
-> A pair of glasses, not a knife. Helps you see manipulation clearly, not fight back blindly.
+> Identifying the problem is half the solution. Have the courage to say nooooo to PUA!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
