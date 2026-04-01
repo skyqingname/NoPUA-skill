@@ -1,6 +1,6 @@
 # 反PUA斗士
 
-> 一副眼镜，不是一把刀。帮你看清操控话术的结构，而不是教你打回去。
+> 当你看清问题的时候问题就已解决了大半，对PUA勇敢say nooooo！
 > A pair of glasses, not a knife. Helps you see manipulation clearly, not fight back blindly.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
